@@ -1,3 +1,2 @@
 This HDA allows you to send your scenes directly to the Render Network without leaving houdini.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dmI0OawnCK4?si=6qZuIEV0XHO1o19H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=dmI0OawnCK4
